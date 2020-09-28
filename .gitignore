@@ -1,0 +1,12 @@
+LibSpyTest/Debug
+LibSpyTest/x64
+LibSpyTest/.vs
+LibSpyTest/LibSpyTestExe/x64
+LibSpyTest/LibSpyTestExe/Debug
+LibSpyTest/LibSpyDLLTest/x64
+LibSpyTest/LibSpyDLLTest/Debug
+LibSpyTest/program/x64
+LibSpyTest/program/Debug
+LibSpyTest/inject/x64
+LibSpyTest/inject/Debug
+
